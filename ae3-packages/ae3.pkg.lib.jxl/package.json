@@ -1,0 +1,6 @@
+{
+	name : 'ae3.pkg.lib.jxl',
+	title : 'AE3 Library Wrapper: jXL (MS Excel format support)',
+	provides : 'jxl',
+	requires : 'java'
+}
